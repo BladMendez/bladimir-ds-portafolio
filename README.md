@@ -8,6 +8,7 @@ Portafolio profesional de ciencia de datos con proyectos reales y análisis apli
 
 Este repositorio es mi portafolio profesional donde documento proyectos reales enfocados en:
 - 📈 Análisis de datos educativos e industriales
+- 📈 Gestión de proyectos
 - 🛠️ Optimización de procesos y predicción de fallas
 - 🔍 Visualización interactiva de datos
 - 🤖 Machine Learning para toma de decisiones
